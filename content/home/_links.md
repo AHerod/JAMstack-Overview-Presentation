@@ -11,7 +11,7 @@ weight = 40
 * [90% of hacked CMS sites in 2018 were powered by WordPress](https://www.itpro.co.uk/security/33149/90-of-hacked-cms-sites-in-2018-were-powered-by-wordpress)
 * [JAMstack Ecosystem](https://bejamas.io/blog/jamstack-ecosystem/)
 
-#
+
 #### More:
 * [eBook: Modern Web Development on the Jamstack](https://www.netlify.com/oreilly-jamstack/#download)
 * [List of Static Site Generators](https://www.staticgen.com/)
